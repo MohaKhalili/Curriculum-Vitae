@@ -5,7 +5,10 @@ Last Update: 15 Jan 2022
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mohakhalili)
 
-## My research interests :
+I am a M.Sc. student at [Qazvin Azad University](https://www.qiau.ac.ir/en/) and Control Engineerin. I have finished my B.Sc. degree in Control Engineering at [Qazvin Azad University](https://www.qiau.ac.ir/en/). My Bachelor's research experience was [Battery State of Charge Estimation Using By Coulomb Counting Method](https://github.com/mohakhalili/B.Sc-Project). 
+
+My research interests are listed below:
+
 * Biorobotics
 * Legged Robots
 * Quadruped Robots
@@ -17,5 +20,3 @@ Last Update: 15 Jan 2022
 #### My CV in LaTeX
 * The resume typesetting is done in XeLaTeX.
 * Up to date TeX distribution like TexLive is required
-* Run the following command in a terminal:
-`xelatex -synctex=1 -shell-escape --output-directory=build -interaction=nonstopmode  CV.tex`
