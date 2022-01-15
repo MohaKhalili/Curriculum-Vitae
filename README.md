@@ -5,12 +5,6 @@ Last Update: 15 Jan 2022
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mohakhalili)
 
-## My CV in LaTeX
-* The resume typesetting is done in XeLaTeX.
-* Up to date TeX distribution like TexLive is required
-* Run the following command in a terminal:
-`xelatex -synctex=1 -shell-escape --output-directory=build -interaction=nonstopmode  CV.tex`
-
 ## My research interests :
 * Biorobotics
 * Legged Robots
@@ -19,4 +13,9 @@ Last Update: 15 Jan 2022
 * Central Pattern Generators (CPGs)
 * Rehabilitation Robotics
 * Machine Learning
-* Signal Processing
+
+#### My CV in LaTeX
+* The resume typesetting is done in XeLaTeX.
+* Up to date TeX distribution like TexLive is required
+* Run the following command in a terminal:
+`xelatex -synctex=1 -shell-escape --output-directory=build -interaction=nonstopmode  CV.tex`
