@@ -17,6 +17,6 @@ My research interests are listed below:
 * Rehabilitation Robotics
 * Machine Learning
 
-#### My CV in LaTeX
+### My CV in LaTeX
 * The resume typesetting is done in XeLaTeX.
 * Up to date TeX distribution like TexLive is required
