@@ -16,7 +16,8 @@ My research interests are listed below:
 * Central Pattern Generators (CPGs)
 * Rehabilitation Robotics
 * Machine Learning
-
+<!--
 ### My CV in LaTeX
 * The resume typesetting is done in XeLaTeX.
 * Up to date TeX distribution like TexLive is required
+-->
