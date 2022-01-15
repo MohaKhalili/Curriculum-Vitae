@@ -5,7 +5,7 @@ Last Update: 15 Jan 2022
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/mohakhalili)
 
-I am a M.Sc. student at [Qazvin Azad University](https://www.qiau.ac.ir/en/) and Control Engineerin. I have finished my B.Sc. degree in Control Engineering at [Qazvin Azad University](https://www.qiau.ac.ir/en/). My Bachelor's research experience was [Battery State of Charge Estimation Using By Coulomb Counting Method](https://github.com/mohakhalili/B.Sc-Project). 
+I am a M.Sc. student at [Qazvin Azad University](https://www.qiau.ac.ir/en/) and Control Engineerin. I have finished my B.Sc. degree in Control Engineering at [Qazvin Azad University](https://www.qiau.ac.ir/en/). My Bachelor's research experience was [Battery State of Charge Estimation Using By Coulomb Counting Method](https://github.com/mohakhalili/B.Sc-Project).
 
 My research interests are listed below:
 
